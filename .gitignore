@@ -25,6 +25,8 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
+.idea
+
 # local env files
 .env*.local
 
@@ -34,3 +36,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/.idea/
